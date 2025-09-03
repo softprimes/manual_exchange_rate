@@ -40,7 +40,7 @@
         'views/purchase_order_views.xml',
         'views/sale_order_views.xml',
     ],
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/manual_currency.gif'],
     'license': 'LGPL-3',
     'sequence': -101,
     'installable': True,
