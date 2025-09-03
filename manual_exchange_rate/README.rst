@@ -2,10 +2,25 @@
     :target: https://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 
-Manual Currency Exchange Rate
-=============================
-The currency rate can be manually changed in sales, purchases, and invoices by
-utilizing this module.
+---
+© 2025-09-03 Softprimes. All Rights Reserved.
+
+# Manual Exchange Rate
+
+This Odoo module allows users to set **manual currency exchange rates** directly on Purchase Orders.
+It ensures better control over accounting and stock valuation when dealing with multi-currency transactions.
+
+---
+
+## ✨ Features
+- Add a **manual exchange rate** field in Purchase Orders.
+- Automatically apply the manual rate to:
+  - **Purchase Order amounts**.
+  - **Stock valuation** for incoming shipments.
+  - **Journal entries** related to purchases.
+- Ensures accounting entries are consistent with the chosen rate.
+- Works seamlessly with multi-company and multi-currency environments.
+
 
 Installation
 ============
@@ -14,21 +29,19 @@ Installation
 
 Company
 -------
-* `Cybrosys Techno Solutions <https://cybrosys.com/>`__
+* ` Softpeimes <https://softprimes.com/>`__
 
 License
 -------
 General Public License, Version 3 (AGPL v3).
 (https://www.gnu.org/licenses/agpl-3.0-standalone.html)
 
-Credits
--------
-Developer: (V17)Anfas Faisal K, (V18) Farook Al Ameen, Contact: odoo@cybrosys.com
+
 
 Contacts
 --------
-* Mail Contact : odoo@cybrosys.com
-* Website : https://cybrosys.com
+* Mail Contact : info@softprimes.com
+* Website : https://softprimes.com/
 
 Bug Tracker
 -----------
@@ -36,8 +49,8 @@ Bugs are tracked on GitHub Issues. In case of trouble, please check there if you
 
 Maintainer
 ==========
-.. image:: https://cybrosys.com/images/logo.png
-   :target: https://cybrosys.com
+.. image:: https://your-domain.com/assets/icons/Soft-Primes-Final-Jpeg.jpg
+   :target: https://softprimes.com/
 
 Further information
 ===================
